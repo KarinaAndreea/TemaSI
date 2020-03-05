@@ -1,2 +1,2 @@
 # TemaSI
-Comunicare securizata intre doua noduri
+Tema realizata in cadrul laboratorului de Securitatea Informatiei
